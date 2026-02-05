@@ -1,3 +1,10 @@
+guile-3.0 (3.0.7-deepin2) unstable; urgency=medium
+
+  * Rebuild
+  * update version
+
+ -- lichenggang <lichenggang@deepin.org>  Thu, 05 Feb 2026 09:46:57 +0800
+
 guile-3.0 (3.0.7-deepin1) unstable; urgency=medium
 
   * Rebuild
